@@ -1,1 +1,1 @@
-# console_c-
+Belajar C++. Kumpulan kode latihan
